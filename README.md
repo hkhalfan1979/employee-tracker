@@ -7,7 +7,7 @@
 
 ## Description
 
-A command line application that allows a user to track mployees within an organization. The application connects to a database using MySQL that contains three tables with information on departments, roles, and employees within the company. This project allows a user to add, view, and modify information about employees of a company.
+This is a CLI command-line application to manage a company's employee database, using Node.js, Inquirer, and MySQL2.
 
 ---
 
@@ -27,12 +27,13 @@ A command line application that allows a user to track mployees within an organi
 
 ---
 
-## Technology Used
+## Technology and Packages Used
 
 - [Node.js](https://nodejs.org/en/)
-- [Express package](https://www.npmjs.com/package/express)
 - [GitHub](https://www.github.com)
-- [SQL]
+- [MYSQL2]
+- [Inquirer]
+- [console.table]
 
 ---
 
@@ -44,13 +45,26 @@ A command line application that allows a user to track mployees within an organi
 
 ## Screenshots
 
+### Video
+
+[![Watch the video](./assets/employee-tracker-screenshot.png)](https://drive.google.com/file/d/1A3r2IJ30XHSe4ZmwvIG0v3xvIqqWfVis/view?usp=sharing)
+
+### GIF
+
+![Animated GIF](./assets/employee-tracker-animation.gif)
+
+### Screengrab
+
+![Screenshot](./assets/employee-tracker-screenshot.png)
 
 
 ---
 
 ## Usage
 
+This application will allow users to view, add, and edit employees, roles, departments, and managers.
 
+Walk through video [Watch the video](https://drive.google.com/file/d/1A3r2IJ30XHSe4ZmwvIG0v3xvIqqWfVis/view?usp=sharing)
 
 ---
 
